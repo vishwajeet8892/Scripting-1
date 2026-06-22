@@ -1,5 +1,7 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-33 and learning git/gihub"
 echo "We are learning Branching"
+echo "This is modified Intune portal which is synced to the ServiceNow0"
+echo "INC985089 is resolved by the Vishwajeet"
 echo "Configur the Intune Company Portal to the ServiceNow"
 echo "It i8s modified in the branch INC332200"
